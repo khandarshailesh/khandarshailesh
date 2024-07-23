@@ -1,16 +1,57 @@
-## Hi there 👋
+Hi there, I'm Shailesh Khandar 👋
+I'm a full-stack PHP Developer with experience in Laravel, CodeIgniter, and React.js. I enjoy building dynamic and responsive web applications and have a passion for learning new technologies.
 
-<!--
-**khandarshailesh/khandarshailesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills
+Backend
+PHP: Laravel, CodeIgniter, Symfony
+Node.js: Express
+Database: MySQL, PostgreSQL, MongoDB
+Frontend
+JavaScript: React.js, Vue.js, jQuery
+HTML5 & CSS3: Bootstrap, Tailwind CSS, SASS
+Tools & Platforms
+Version Control: Git, GitHub, Bitbucket
+CI/CD: Jenkins, GitHub Actions, Travis CI
+Containerization: Docker, Docker Compose
+Other Tools: Composer, NPM/Yarn, Webpack, Babel
+📚 Experience
+[Senior Software Engineer]
 
-Here are some ideas to get you started:
+Developed and maintained web applications using Laravel and React.js.
+Integrated third-party APIs and services.
+Implemented RESTful APIs and ensured high performance and responsiveness of applications.
+Collaborated with cross-functional teams to deliver high-quality products.
+[Software Engineer]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built and optimized web applications using CodeIgniter and Vue.js.
+Designed and implemented database schemas and performed complex SQL queries.
+Ensured application security and data protection.
+
+💼 Projects: 
+[CRM Customizations]
+Description: Added the extended feature of Perfex CRM. Create Different modules that can be easily installed on any Perfex CRM setup
+
+Technologies: CodeIgniter, Html, Css, MySQL
+Features: Customize the Core functionality
+Feature 1: Customized the already installed third-party plugins
+Feature 2: Created Different Plugins
+
+[E Commerce Project with ERP Management]
+Description: E-commerce project with Inventory Management using Laravel and Vue js.
+
+Technologies: Laravel, Vue.js, MySQL
+
+📫 Contact Me
+Email: khandarshailesh111@gmail.com
+GitHub: [Your GitHub Profile](https://github.com/khandarshailesh)
+🏅 Certifications
+[Certification Name] - [Issuing Organization]
+[Certification Name] - [Issuing Organization]
+📖 Education
+[Bachelor of computer science and engineering]
+[Gujarat Technological University]
+
+🌐 Languages
+English (Fluent)
+Hindi (Proficient)
+Gujarati (Native)
