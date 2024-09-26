@@ -44,8 +44,8 @@ Technologies: Laravel, Vue.js, MySQL
 📫 Contact Me
 GitHub: [Your GitHub Profile](https://github.com/khandarshailesh)
 📖 Education
-[Bachelor of computer science and engineering]
-[Gujarat Technological University]
+Bachelor of computer science and engineering
+Gujarat Technological University
 
 🌐 Languages
 English (Fluent)
