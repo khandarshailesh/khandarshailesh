@@ -42,7 +42,6 @@ Description: E-commerce project with Inventory Management using Laravel and Vue 
 Technologies: Laravel, Vue.js, MySQL
 
 📫 Contact Me
-#Email: khandarshailesh111@gmail.com
 GitHub: [Your GitHub Profile](https://github.com/khandarshailesh)
 📖 Education
 [Bachelor of computer science and engineering]
