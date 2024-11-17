@@ -1,8 +1,9 @@
 Hi there, I'm Shailesh Khandar 👋
-I'm a full-stack PHP Developer with experience in Laravel, CodeIgniter, and React.js. I enjoy building dynamic and responsive web applications and have a passion for learning new technologies.
+I'm a full-stack PHP Developer with experience in GoLang, Laravel, CodeIgniter, and React.js. I enjoy building dynamic and responsive web applications and have a passion for learning new technologies.
 
 🚀 Skills
 Backend
+Core Go Lang
 PHP: Laravel, CodeIgniter, Symfony
 Node.js: Express
 Database: MySQL, PostgreSQL, MongoDB
